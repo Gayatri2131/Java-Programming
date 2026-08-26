@@ -1,3 +1,4 @@
+//factorial of a number using recursion
 class Recursion3 {
 
     public static int fact(int n) {
